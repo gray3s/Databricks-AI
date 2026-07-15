@@ -182,7 +182,7 @@ These files appear to be third-party corporate, analyst, and sponsored research 
 
 ## Usage Estimate Note
 
-> Give me an estimate summary rate for these two use-cases
+> Codex, give me an estimate summary rate for these two use-cases
 
 Estimate only, based on today's pattern:
 
