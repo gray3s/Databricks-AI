@@ -1,0 +1,23 @@
+20260715
+
+Databricks Links
+
+A Compact Guide to AI Agents
+
+https://www.databricks.com/resources/guide/boost-genai-roi-ai-agents?itm_data=resources-typ-tile2-stateofaiq4fy26ebook-jan21&itm_source=www&itm_category=resources&itm_page=thank-you&itm_location=body&itm_component=card&itm_offer=boost-genai-roi-ai-agents
+
+Unlocking Enterprise AI
+
+https://www.databricks.com/resources/analyst-research/unlocking-enterprise-ai-opportunities-and-strategies?itm_data=mit-build-high-performing-data-ai-org-ty1-nov25&itm_source=www&itm_category=resources&itm_page=thank-you&itm_location=body&itm_component=card&itm_offer=unlocking-enterprise-ai-opportunities-and-strategies
+
+Databricks Certification and Badging:
+Platform Architecture: AWS 
+
+https://www.databricks.com/learn/certification/databricks-on-aws?itm_source=www&itm_category=learn&itm_page=certification&itm_location=body&itm_component=card&itm_offer=databricks-on-aws
+
+Databricks Certification and Badging:
+Platform Architecture: Azure
+
+https://www.databricks.com/learn/certification/databricks-on-azure?itm_source=www&itm_category=learn&itm_page=certification&itm_location=body&itm_component=card&itm_offer=databricks-on-azure
+
+
