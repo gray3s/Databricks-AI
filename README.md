@@ -179,3 +179,23 @@ https://www.databricks.com/learn/certification/databricks-on-azure?itm_source=ww
 ## Notes
 
 These files appear to be third-party corporate, analyst, and sponsored research materials associated with Databricks. Review license, redistribution, and attribution requirements before publishing the PDFs publicly.
+
+## Usage Estimate Note
+
+> Give me an estimate summary rate for these two use-cases
+
+Estimate only, based on today's pattern:
+
+| Use case | Typical burn rate |
+| --- | --- |
+| Light chat / short Q&A | ~1K-5K tokens per exchange |
+| Heavy repo/tool work | ~20K-100K+ tokens per task segment |
+
+Today's Databricks work probably landed in the 100K-300K token range overall, mainly from PDF extraction, repo inspection, GitHub API output, and docs lookup.
+
+Rule of thumb:
+
+- A quick answer: cheap.
+- Reading files and summarizing: medium.
+- Searching large trees / dumping command output / docs lookup: expensive.
+- Long session with many tool calls: very expensive.
